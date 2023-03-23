@@ -1,4 +1,7 @@
 # HackThisTune
+
+Created a music website to search and listen music using Shazam API🎧
+
 [Live Preview](https://rapidapi-example-music-app.vercel.app/)
 
 # Guide
